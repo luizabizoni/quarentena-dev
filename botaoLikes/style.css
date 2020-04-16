@@ -1,0 +1,24 @@
+html {
+    background-color: #08a0e9;
+  }
+  body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  button {
+      background-image: url(https://cdn0.iconfinder.com/data/icons/twitter-ui-flat/48/Twitter_UI-24-512.png);
+      background-color: #e7e9f1;
+      color: #08a0e9;
+      background-size: 50px;
+      background-position: 15% 50%;
+      background-repeat: no-repeat;
+      width: 200px;
+      height: 60px;
+      font-size: 20px;
+      border: 1px solid #a8b4c9;
+      text-align: center;
+      text-indent: 32px;
+  }
